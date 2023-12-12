@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&family=Pacifico&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Navbar start */
+.main-nav .cus-a a {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 500;
+    opacity: .6;
+}
+
+.main-nav .custom-1 {
+    display: flex;
+    align-items: end;
+}
+
+.main-nav .custom-1 a {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 0 10px;
+}
+
+.main-nav .custom-1 .cu-opa {
+    opacity: .7;
+}
+
+.main-nav .custom-1 .opa {
+    opacity: 1 !important;
+}
+
+.main-nav .custom-1 .btn {
+    background-color: #0ebfdd;
+    border-radius: 999px;
+    color: #fff;
+    padding: 5px 25px;
+}
+/* Navbar end */
+/* Our-Mission start */
+.main-mission {
+    background-image: url(../images/Layer-78.png);
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+}
+
+/* .main-mission .star-img img {
+    margin-left: 0 !important;
+} */
+
+.main-mission h1 {
+    color: #fff;
+    padding-top: 21rem;
+    font-size: 2.6rem;
+}
+
+.main-mission p {
+    color: #fff;
+    padding: 0 12rem;
+    font-size: 18px;
+}
+/* Our-Mission end */
+/* About start */
+.main-about {
+    height: 40vh;
+}
+
+.main-about h2 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    color: #0ebfdd;
+    padding-top: 4rem;
+}
+
+.main-about p {
+    font-size: 20px;
+    padding: 0 7rem;
+    font-weight: 500;
+}
+/* About end */
+/* Team start */
+.main-team {
+   background-color: #0ebfdd;
+   height: 95vh;
+   color: #fff;
+}
+
+.main-team h2 {
+    font-size: 2.8rem;
+    padding: 3rem 0;
+}
+
+.main-team .sec-2 {
+    padding: 0 10rem;
+    margin-top: 2rem;
+}
+
+.main-team .sec-2 a {
+    border-radius: 999px;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 40px;
+    margin-top: 5.5rem;
+}
+/* Team end */
+/* Map start */
+.main-map iframe {
+   width: 100%;
+   height: 80vh;
+}
+/* Map end */
+/* Footer start */
+.main-footer {
+    background-color: #45494d;
+}
+
+.main-footer .anchor {
+    /* display: inline-block; */
+    margin: 1.5rem 0;
+}
+
+.main-footer .anchor .ach a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 1rem;
+    /* margin-top: 2rem; */
+    font-size: 15px;
+}
+
+/* .main-footer .anchor .icon a {
+    text-align: end;
+} */
+
+.main-footer .icon i {
+    border: 1px solid #fff;
+    width: 35px;
+    height: 35px;
+    transform: translate(-50% -50%);
+    border-radius: 999px;
+    padding-top: 7px;
+    padding-left: 2px;
+    padding-right: 7px;
+    font-size: 18px;
+    color: #fff;
+    margin: 20px 5px;
+    
+}
+
+/* .main-footer .container .icon a {
+    text-align: right !important;
+} */
+
+.main-footer .icon .prob {
+    padding-right: 11px !important;
+}
+
+/* .main-footer .icon {
+    display: inline-block;
+    margin-left: 42rem;
+} */
+
+.main-footer .cus-para {
+    color: #fff;
+    opacity: .4; 
+    border-top: 1px solid #bdb0b0;
+}    
+
+.main-footer .cus-para p {
+    padding: 0 .5rem;
+    display: inline-block;
+    font-size: 15px;
+    padding-top: 10px;
+}
+/* Footer end */

@@ -1,0 +1,105 @@
+/* Navbar start */
+.main-nav .navbar-toggler {
+   margin-left: 17rem;
+}
+/* Navbar end */
+/* Our Mission start */
+.main-mission {
+    height: 80vh;
+}
+
+.main-mission h1 {
+    font-size: 2rem;
+    padding-top: 17.5rem;
+}
+
+.main-mission p {
+    font-size: 15px;
+    padding: 0 !important;
+}
+/* Our Mission end */
+/* About start */
+.main-about {
+    height: 45vh;
+}
+
+.main-about h2 {
+    font-size: 2rem;
+    padding-top: 3rem;
+}
+
+.main-about p {
+    font-size: 15px;
+    padding: 0 3rem;
+}
+/* About end */
+/* Team start */
+.main-team {
+    height: 85vh;
+}
+
+.main-team h2 {
+    font-size: 2.2rem;
+    padding: 3rem 0;
+}
+
+.main-team .sec-2 {
+    padding: 0 !important;
+    margin-top: 0;
+}
+
+.main-team img {
+    width: 70%;
+}
+
+.main-team h4 {
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.main-team p {
+    padding-top: 0 !important;
+    font-size: 11px;
+}
+
+.main-team .sec-2 a {
+    margin-top: 2rem;
+}
+/* Team end */
+/* Map start */
+.main-map iframe {
+    height: 70vh;
+}
+/* Map end */
+/* Footer start */
+.main-footer .anchor {
+    margin: 1rem 0;
+}
+
+.main-footer .anchor .ach {
+    text-align: center;
+}
+
+/* .main-footer .icon {
+    margin-left: 10rem;
+} */
+
+.main-footer .icon {
+    /* font-size: 15px; */
+    text-align: center !important;
+}
+
+.main-footer .icon i {
+    padding-left: 7px;
+}
+
+.main-footer .cus-para {
+    text-align: center !important;
+}
+
+.main-footer .cus-para p {
+    padding: 1rem .2rem;
+    font-size: 10px;
+    
+}
+/* Footer end */
